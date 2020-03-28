@@ -10,6 +10,7 @@ import java.util.Scanner;
 public class PressurizedBottle {
     
     /*
+     * 汽水瓶
      * https://www.nowcoder.com/questionTerminal/fe298c55694f4ed39e256170ff2c205f
      *
      * 有这样一道智力题：“某商店规定：三个空汽水瓶可以换一瓶汽水。小张手上有十个空汽水瓶，她最多可以换多少瓶汽水喝？”
